@@ -18,12 +18,6 @@
             android:name=".last"
             android:exported="false" />
         <activity
-            android:name=".SellerSignup"
-            android:exported="false" />
-        <activity
-            android:name=".SellerLogin"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity3"
             android:exported="false" />
         <activity

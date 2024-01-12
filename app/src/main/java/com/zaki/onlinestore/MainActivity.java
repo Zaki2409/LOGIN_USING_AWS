@@ -1,4 +1,4 @@
-package com.example.onlinestore;
+package com.zaki.onlinestore;
 
 import androidx.appcompat.app.AppCompatActivity;
 

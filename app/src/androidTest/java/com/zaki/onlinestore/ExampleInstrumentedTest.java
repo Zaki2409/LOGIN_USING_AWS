@@ -1,4 +1,4 @@
-package com.example.onlinestore;
+package com.zaki.onlinestore;
 
 import android.content.Context;
 

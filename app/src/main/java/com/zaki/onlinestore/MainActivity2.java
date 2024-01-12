@@ -1,9 +1,8 @@
-package com.example.onlinestore;
+package com.zaki.onlinestore;
 
 import androidx.appcompat.app.AppCompatActivity;
-import static android.content.ContentValues.TAG;
+
 import android.content.Intent;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.os.Bundle;

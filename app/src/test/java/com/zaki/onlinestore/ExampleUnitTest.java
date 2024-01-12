@@ -1,4 +1,4 @@
-package com.example.onlinestore;
+package com.zaki.onlinestore;
 
 import org.junit.Test;
 
